@@ -9,7 +9,7 @@ const Index = () => {
       <Box bg="linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBiZWFuc3xlbnwwfHx8fDE3MTE3OTU1Mjl8MA&ixlib=rb-4.0.3&q=80&w=1080')" bgSize="cover" bgPosition="center" py={40} textAlign="center" color="white">
         <Container maxW="container.lg">
           <Heading as="h1" size="2xl" mb={4}>
-            Organic Coffee Shop
+            Best Coffee Shop in Split
           </Heading>
           <Text fontSize="xl" mb={8}>
             Discover the rich flavors of our organic, sustainably sourced coffee

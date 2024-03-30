@@ -14,7 +14,7 @@ const Index = () => {
           <Text fontSize="xl" mb={8}>
             Discover the rich flavors of our organic, sustainably sourced coffee
           </Text>
-          <Button colorScheme="green" size="lg" rightIcon={<FaLeaf />}>
+          <Button colorScheme="brown" size="lg" rightIcon={<FaLeaf />}>
             Shop Now
           </Button>
         </Container>
